@@ -13,7 +13,7 @@ function App() {
       <main className="container">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Great! You've made it this far
+          Nice one! You've made it this far
           <span role="img" aria-label="sunglasses emoji">
             😎
           </span>
